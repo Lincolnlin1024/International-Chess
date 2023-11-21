@@ -1,0 +1,14 @@
+﻿  Generate moc_predefs.h
+  chessboard.cpp
+  chessman.cpp
+  game.cpp
+  latice.cpp
+  main.cpp
+  mainwindow.cpp
+  qrc_resource.cpp
+  moc_chessboard.cpp
+  moc_chessman.cpp
+  moc_game.cpp
+  moc_latice.cpp
+  moc_mainwindow.cpp
+  International_Chess.vcxproj -> D:\QTproject\International_Chess\debug\International_Chess.exe

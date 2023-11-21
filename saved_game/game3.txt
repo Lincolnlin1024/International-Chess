@@ -1,0 +1,9 @@
+cc2-c4  
+bb7-b5  
+cc4xb5  
+aa7-a5  
+bb5xa6  
+attribute:
+0
+0
+3
